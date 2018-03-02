@@ -2571,9 +2571,9 @@ ember-app-scheduler@^0.2.0:
   dependencies:
     ember-cli-babel "^6.3.0"
 
-ember-cli-addon-docs@ember-learn/ember-cli-addon-docs#versioned-deploys:
+ember-cli-addon-docs@ember-learn/ember-cli-addon-docs#3e1a58e:
   version "0.1.4"
-  resolved "https://codeload.github.com/ember-learn/ember-cli-addon-docs/tar.gz/fe6a3aa1035182b8360b1e78110ee6e0b36d40d8"
+  resolved "https://codeload.github.com/ember-learn/ember-cli-addon-docs/tar.gz/3e1a58e40afc94b789e99522c6230c03ea84f874"
   dependencies:
     "@glimmer/syntax" "^0.30.5"
     broccoli-caching-writer "^3.0.3"
