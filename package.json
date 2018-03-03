@@ -29,7 +29,7 @@
     "ember-cli-dependency-checker": "^2.0.0",
     "ember-cli-deploy": "^1.0.2",
     "ember-cli-deploy-build": "^1.1.1",
-    "ember-cli-deploy-git": "^1.3.1",
+    "ember-cli-deploy-git": "ef4/ember-cli-deploy-git#remove-ncp",
     "ember-cli-deploy-git-ci": "^1.0.1",
     "ember-cli-eslint": "^4.2.1",
     "ember-cli-htmlbars": "^2.0.1",
