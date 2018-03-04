@@ -10,5 +10,17 @@
     "tag": null,
     "path": "deploy-test",
     "name": "deploy-test"
+  },
+  "v1.1.0": {
+    "sha": "ee23b7c2c0b353830520209535d6820a9ff4eb7c",
+    "tag": "v1.1.0",
+    "path": "v1.1.0",
+    "name": "v1.1.0"
+  },
+  "latest": {
+    "sha": "ee23b7c2c0b353830520209535d6820a9ff4eb7c",
+    "tag": "v1.1.0",
+    "path": "latest",
+    "name": "latest"
   }
 }
