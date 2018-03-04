@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Redirect</title>
     <script type="text/javascript">
-      // Single Page Apps for GitHub Pages 
+      // Single Page Apps for GitHub Pages
       // https://github.com/rafrex/spa-github-pages
       // Copyright (c) 2016 Rafael Pedicini, licensed under the MIT License
       // ----------------------------------------------------------------------
@@ -27,7 +27,7 @@
       var segments = l.pathname.split('/');
 
       // Special case the `latest` version so we don't wind up in a redirect loop
-      if (!segments[segmentCount] !== 'latest') {
+      if (segments[segmentCount] !== 'latest') {
         l.replace(
           l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
           segments.slice(0, 1 + segmentCount).join('/') + '/?p=/' +
