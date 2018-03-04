@@ -6,7 +6,7 @@
     "name": "master"
   },
   "deploy-test": {
-    "sha": "17eba40e6b33a46c6b1539b8eaceb84278817e1a",
+    "sha": "caad536c48dd3562629a4f7a467c976f0ec6bb2b",
     "tag": null,
     "path": "deploy-test",
     "name": "deploy-test"
