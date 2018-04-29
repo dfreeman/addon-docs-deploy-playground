@@ -1,6 +1,6 @@
 {
   "master": {
-    "sha": "69607102b32e023450b7affd7961cc834b8e78ab",
+    "sha": "0c3932a5b650024d5cd256064d00bdd2bf9aa2ff",
     "tag": null,
     "path": "v/master",
     "name": "master"
@@ -18,9 +18,9 @@
     "name": "v1.1.0"
   },
   "latest": {
-    "sha": "ee23b7c2c0b353830520209535d6820a9ff4eb7c",
-    "tag": "v1.1.0",
-    "path": "latest",
+    "sha": "0c3932a5b650024d5cd256064d00bdd2bf9aa2ff",
+    "tag": null,
+    "path": "v/latest",
     "name": "latest"
   }
 }
