@@ -1,9 +1,9 @@
 {
   "master": {
-    "sha": "0c3932a5b650024d5cd256064d00bdd2bf9aa2ff",
-    "tag": null,
     "path": "v/master",
-    "name": "master"
+    "name": "master",
+    "sha": "e31f0e93e986c5e720edfde395febb26d347a918",
+    "tag": null
   },
   "deploy-test": {
     "sha": "caad536c48dd3562629a4f7a467c976f0ec6bb2b",
