@@ -20,7 +20,13 @@
   "latest": {
     "path": "",
     "name": "latest",
-    "sha": "e31f0e93e986c5e720edfde395febb26d347a918",
-    "tag": null
+    "sha": "9ac0a2e1ae196e1424ce54ba5ca9fc5a44f65559",
+    "tag": "v1.2.0"
+  },
+  "v1.2.0": {
+    "path": "v/1.2.0",
+    "name": "v1.2.0",
+    "sha": "9ac0a2e1ae196e1424ce54ba5ca9fc5a44f65559",
+    "tag": "v1.2.0"
   }
 }
