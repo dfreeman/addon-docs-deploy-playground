@@ -22,9 +22,15 @@
       // https://username.github.io/repo-name/one/two?a=b&c=d#qwe becomes
       // https://username.github.io/repo-name/?p=/one/two&q=a=b~and~c=d#qwe
       // Otherwise, leave segmentCount as 0.
-      var segmentCount = 3;
+      var segmentCount = 1;
       var l = window.location;
       var segments = l.pathname.split('/');
+
+      // If we're looking at a versioned deploy, there are effectively
+      // two more static segments in the count.
+      if (segments[segmentCount + 1] === 'v') {
+        segmentCount += 2;
+      }
 
       // Avoid an infinite loop if we try to direct to a location that doesn't exist
       if (!/^\?p=\/.*&q=.*/.test(l.search)) {
