@@ -2,19 +2,19 @@
   "master": {
     "sha": "69607102b32e023450b7affd7961cc834b8e78ab",
     "tag": null,
-    "path": "master",
+    "path": "v/master",
     "name": "master"
   },
   "deploy-test": {
     "sha": "caad536c48dd3562629a4f7a467c976f0ec6bb2b",
     "tag": null,
-    "path": "deploy-test",
+    "path": "v/deploy-test",
     "name": "deploy-test"
   },
   "v1.1.0": {
     "sha": "ee23b7c2c0b353830520209535d6820a9ff4eb7c",
     "tag": "v1.1.0",
-    "path": "v1.1.0",
+    "path": "v/1.1.0",
     "name": "v1.1.0"
   },
   "latest": {
